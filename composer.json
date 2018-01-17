@@ -1,0 +1,10 @@
+{
+    "name": "admin/helper",
+    "authors": [
+        {
+            "name": "周藤福",
+            "email": "931945321@qq.com"
+        }
+    ],
+    "require": {}
+}
